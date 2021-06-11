@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Azevas1
+- 👋 Hi, I’m Lucas Azevedo
 - 👀 I’m interested in ...Desenvolvimento Web
 - 🌱 I’m currently learning ... JavaScript
 - 💞️ I’m looking to collaborate on ...

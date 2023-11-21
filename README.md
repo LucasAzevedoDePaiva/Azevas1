@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Lucas Azevedo
 - 👀 I’m interested in ...Web Development
-- 🌱 I’m currently learning ... API Rest
+- 🌱 I’m currently learning ... C#/.NET
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... lucasazevedopht@gmail.com
 
